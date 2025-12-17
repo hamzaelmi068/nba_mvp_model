@@ -1,11 +1,11 @@
-# NBA MVP DataSculptor
+# CourtVision
 
 **A sophisticated machine learning platform for predicting the next NBA Most Valuable Player.**
 
 Overview
 --------
 
-The **NBA MVP DataSculptor** leverages historical NBA data, advanced statistical analysis, and machine learning algorithms (XGBoost, Random Forest, Ridge Regression) to forecast MVP candidates with high precision. It features a modern, interactive frontend for exploring predictions, comparing player stats, and visualizing the "MVP Ladder."
+**CourtVision** leverages historical NBA data, advanced statistical analysis, and machine learning algorithms (XGBoost, Random Forest, Ridge Regression) to forecast MVP candidates with high precision. It features a modern, interactive frontend for exploring predictions, comparing player stats, and visualizing the "MVP Ladder."
 
 [**🎥 Watch the Demo**](https://github.com/user-attachments/assets/f041322b-e7f8-415a-91ec-8f3fff3dc791)
 
